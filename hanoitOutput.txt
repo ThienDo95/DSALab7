@@ -1,0 +1,87 @@
+Input 0
+ 
+Method call: 1 times
+Disks move: 0 times
+
+Input 1
+ Move disk 1 from start to destination
+ 
+Method call: 3 times
+Disks move: 1 times
+
+Input 2
+ Move disk 1 from start to temp
+ Move disk 2 from start to destination
+ Move disk 1 from temp to destination
+ 
+Method call: 7 times
+Disks move: 3 times
+
+Input 3
+ Move disk 1 from start to destination
+ Move disk 2 from start to temp
+ Move disk 1 from destination to temp
+ Move disk 3 from start to destination
+ Move disk 1 from temp to start
+ Move disk 2 from temp to destination
+ Move disk 1 from start to destination
+ 
+Method call: 15 times
+Disks move: 7 times
+
+Input 4
+ Move disk 1 from start to temp
+ Move disk 2 from start to destination
+ Move disk 1 from temp to destination
+ Move disk 3 from start to temp
+ Move disk 1 from destination to start
+ Move disk 2 from destination to temp
+ Move disk 1 from start to temp
+ Move disk 4 from start to destination
+ Move disk 1 from temp to destination
+ Move disk 2 from temp to start
+ Move disk 1 from destination to start
+ Move disk 3 from temp to destination
+ Move disk 1 from start to temp
+ Move disk 2 from start to destination
+ Move disk 1 from temp to destination
+ 
+Method call: 31 times
+Disks move: 15 times
+
+Input 5
+ Move disk 1 from start to destination
+ Move disk 2 from start to temp
+ Move disk 1 from destination to temp
+ Move disk 3 from start to destination
+ Move disk 1 from temp to start
+ Move disk 2 from temp to destination
+ Move disk 1 from start to destination
+ Move disk 4 from start to temp
+ Move disk 1 from destination to temp
+ Move disk 2 from destination to start
+ Move disk 1 from temp to start
+ Move disk 3 from destination to temp
+ Move disk 1 from start to destination
+ Move disk 2 from start to temp
+ Move disk 1 from destination to temp
+ Move disk 5 from start to destination
+ Move disk 1 from temp to start
+ Move disk 2 from temp to destination
+ Move disk 1 from start to destination
+ Move disk 3 from temp to start
+ Move disk 1 from destination to temp
+ Move disk 2 from destination to start
+ Move disk 1 from temp to start
+ Move disk 4 from temp to destination
+ Move disk 1 from start to destination
+ Move disk 2 from start to temp
+ Move disk 1 from destination to temp
+ Move disk 3 from start to destination
+ Move disk 1 from temp to start
+ Move disk 2 from temp to destination
+ Move disk 1 from start to destination
+ 
+Method call: 63 times
+Disks move: 31 times
+

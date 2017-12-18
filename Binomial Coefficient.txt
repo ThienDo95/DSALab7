@@ -1,0 +1,12 @@
+Binomial Coefficient
+	_ Andreas von Ettingshausen [ German mathematician & physicist ] introduced binomial coeffient  in 1826
+		. Notation (n)
+			   (k)
+	_ Refer to specific address in Pascal's Triangle
+		. They refer nth row, rth element in Pascal's triangle
+		. For example :	(5)
+			        (4)
+		. 5th row -- 4th element
+
+
+Reference -- [ http://www.mathwords.com/b/binomial_coefficients_pascal.htm ]
